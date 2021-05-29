@@ -25,7 +25,8 @@ INSTRUCTIONS
 
 1. Download the songpack from one of the following mirrors:
 
-https://drive.google.com/drive/folders/1kcLv5vrCD3hzzfyDWscOysYiW9MUDFsb?usp=sharing
+MEGA: https://mega.nz/folder/GI53QIRI#b3lQEIgKHh5SpDY59x3Wkw
+GOOGLE DRIVE: https://drive.google.com/file/d/1ErlmArFw5Dzw9RYweMkx8n4_WxVweuuX/view?usp=sharing
 
 
 - After extracting, you should end up with a Remasters folder. Within it should be a "KHI.5 and II.5"
