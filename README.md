@@ -40,7 +40,7 @@ GOOGLE DRIVE: https://drive.google.com/file/d/1ErlmArFw5Dzw9RYweMkx8n4_WxVweuuX/
 	- 2ND STEP - INSTALLER.bat
 	- OPTIONAL - SAVE BACKUP.bat
 
-3. Create a new folder and place the Remasters folder from the Drive and the 3 batch files inside.
+3. Create a new folder and place the Remasters folder and the 3 batch files inside.
 	- You can name this new folder whatever you want.
 	- The contents of the folder should now look like this:
 	![image](https://user-images.githubusercontent.com/27838339/120083469-d8cef000-c096-11eb-8503-5847985fb5d4.png)
