@@ -24,7 +24,7 @@ YouTube/Twitch: Limen123
 INSTRUCTIONS
 
 1. Download the songpack from here:
-2. 
+
 https://drive.google.com/drive/folders/1kcLv5vrCD3hzzfyDWscOysYiW9MUDFsb?usp=sharing
 
 2. Download the 3 batch files. You should have:
