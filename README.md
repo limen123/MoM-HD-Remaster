@@ -26,6 +26,11 @@ INSTRUCTIONS
 1. Download the songpack from here:
 https://drive.google.com/drive/folders/1kcLv5vrCD3hzzfyDWscOysYiW9MUDFsb?usp=sharing
 
+After extracting, you should end up with a Remasters folder. Within it should be a "KHI.5 and II.5"
+and a "KH3" folder.
+![image](https://user-images.githubusercontent.com/27838339/120084276-d079b380-c09c-11eb-9b90-674c2a8a414d.png)
+
+
 2. Download the 3 batch files. You should have:
 	- 1ST STEP - CREATE BACKUPS.bat
 	- 2ND STEP - INSTALLER.bat
