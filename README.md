@@ -1,19 +1,19 @@
 # Kingdom Hearts Melody of Memory HD Remaster Modpack v0.1
 
 ********************************************************************************************
-				                              Melody of Memory
-			                          	 HD Remaster Pack V0.1
-		                 CREATED BY LIMEN WITH THE HELP OF DAMO279 AND WATERKH
-		                      	   Twitter: @KH_damo and @water_KH
+Melody of Memory
+HD Remaster Pack V0.1
+CREATED BY LIMEN WITH THE HELP OF DAMO279 AND WATERKH
+Twitter: @KH_damo and @water_KH
 
 
-		                     	CONTACT TO HELP PINPOINT AND FIX ISSUES
-			                              Twitter: @Limen_nt
-		                    	          Discord: Limen#7086
-			                            YouTube/Twitch: Limen123
+CONTACT TO HELP PINPOINT AND FIX ISSUES
+Twitter: @Limen_nt
+Discord: Limen#7086
+YouTube/Twitch: Limen123
 ********************************************************************************************
 
-				                              INSTRUCTIONS
+INSTRUCTIONS
 
 
 1. Run the 1ST STEP batch file located in the pack to create backups of the original songs.
@@ -43,7 +43,7 @@ OPTIONAL BATCH FILE
 
 ********************************************************************************************
 
-		  		                            KNOWN ISSUES
+KNOWN ISSUES
 
 KH1:
  - Traverse Town may lose sync during 2nd half, not sure
@@ -78,7 +78,7 @@ contacts at the top of the READ ME!
 
 ********************************************************************************************
 
-		   		                              SONGLIST
+SONGLIST
 
 
 REMASTERED PACK(71 total songs):
