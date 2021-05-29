@@ -64,7 +64,7 @@ OPTIONAL BATCH FILE
    instructions. After the backup is complete, you can save it wherever you want.
  - To restore the save, copy the contents of "Save Backup" and place it in:
 
-%CD%:\Users\%USERNAME%\Documents\KINGDOM HEARTS Melody of Memory\Epic Games Store\
+%CD%:\Users\\%USERNAME%\Documents\KINGDOM HEARTS Melody of Memory\Epic Games Store\
 - %CD% being your main drive
 - %USERNAME% being your PC username
 
