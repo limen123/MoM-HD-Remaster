@@ -23,12 +23,19 @@ YouTube/Twitch: Limen123
 
 INSTRUCTIONS
 
+1. Download the songpack from here:
+https://drive.google.com/drive/folders/1kcLv5vrCD3hzzfyDWscOysYiW9MUDFsb?usp=sharing
 
-1. Run the 1ST STEP batch file located in the pack to create backups of the original songs.
+2. Download the 3 batch files. You should have:
+	- 1ST STEP - CREATE BACKUPS.bat
+	- 2ND STEP - INSTALLER.bat
+	- OPTIONAL - SAVE BACKUP.bat
+	- 
+3. Run the 1ST STEP batch file located in the pack to create backups of the original songs.
 	- By default, your game should be in "C:\Program Files\KH_MoM". If it is not, you
 	  will have to locate it yourself. Try searching "KH_MoM" if you're having trouble.
 
-2. Once you have finished creating backups, run the 2ND STEP batch file located in the pack.
+4. Once you have finished creating backups, run the 2ND STEP batch file located in the pack.
    For subsequent uses, you ONLY need to run THIS BATCH FILE. You do not need to create
    backups every time.
 	- "Originals" will undo all replacements and reset you with the original songs.
