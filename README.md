@@ -30,7 +30,7 @@ MEGA: https://mega.nz/folder/GI53QIRI#b3lQEIgKHh5SpDY59x3Wkw
 GOOGLE DRIVE: https://drive.google.com/file/d/1ErlmArFw5Dzw9RYweMkx8n4_WxVweuuX/view?usp=sharing
 
 
-- After extracting, you should end up with a Remasters folder. Within it should be a "KHI.5 and II.5"
+- After extracting, you should end up with a Remasters folder. Within it should be a "I.5 and II.5"
   and a "KH3" folder.
 	![image](https://user-images.githubusercontent.com/27838339/120084276-d079b380-c09c-11eb-9b90-674c2a8a414d.png)
 
