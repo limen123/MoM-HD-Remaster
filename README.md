@@ -31,10 +31,18 @@ https://drive.google.com/drive/folders/1kcLv5vrCD3hzzfyDWscOysYiW9MUDFsb?usp=sha
 	- 2ND STEP - INSTALLER.bat
 	- OPTIONAL - SAVE BACKUP.bat
 
+3. Create a new folder and place the Remasters folder from the Drive and the 3 batch files inside.
+	- You can name this new folder whatever you want.
+	- The contents of the folder should now look like this:
+	![image](https://user-images.githubusercontent.com/27838339/120083469-d8cef000-c096-11eb-8503-5847985fb5d4.png)
+
 
 3. Run the 1ST STEP batch file located in the pack to create backups of the original songs.
 	- By default, your game should be in "C:\Program Files\KH_MoM". If it is not, you
 	  will have to locate it yourself. Try searching "KH_MoM" if you're having trouble.
+	- After the backups are created, your folder should now look like this:
+	![image](https://user-images.githubusercontent.com/27838339/120083494-0caa1580-c097-11eb-9c3f-e861bddc88b6.png)
+
 
 4. Once you have finished creating backups, run the 2ND STEP batch file located in the pack.
    For subsequent uses, you ONLY need to run THIS BATCH FILE. You do not need to create
@@ -53,9 +61,12 @@ same time if you'd like.
 
 
 OPTIONAL BATCH FILE
- - If you would like to create a backup of your save file, run this file on your main drive
-   (where your documents, downloads, etc are) and follow the instructions. After the backup
-   is complete, you can save it wherever you want.
+ - If you would like to create a backup of your save file, run this file and follow the
+   instructions. After the backup is complete, you can save it wherever you want.
+ - To restore the save, copy the contents of "Save Backup" and place it in:
+   	%CD%:\Users\%USERNAME%\Documents\KINGDOM HEARTS Melody of Memory\Epic Games Store
+		-%CD being your main drive
+		-%USERNAME% being your PC username
 
 ********************************************************************************************
 
