@@ -1,16 +1,24 @@
 # Kingdom Hearts Melody of Memory HD Remaster Modpack v0.1
 
 ********************************************************************************************
+
 Melody of Memory
+
 HD Remaster Pack V0.1
+
 CREATED BY LIMEN WITH THE HELP OF DAMO279 AND WATERKH
+
 Twitter: @KH_damo and @water_KH
 
 
 CONTACT TO HELP PINPOINT AND FIX ISSUES
+
 Twitter: @Limen_nt
+
 Discord: Limen#7086
+
 YouTube/Twitch: Limen123
+
 ********************************************************************************************
 
 INSTRUCTIONS
