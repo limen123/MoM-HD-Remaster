@@ -16,13 +16,13 @@ ECHO ***********************************************************************
   EXIT /B
 
 :CASE_1
-  IF exist "%CD:~0,3%\Program Files\KH_MoM\KINGDOM HEARTS Melody of Memory_Data\StreamingAssets\Sead\music\" (ECHO Restoring Originals.. && >NUL copy "Originals\*.*" "%CD:~0,3%\Program Files\KH_MoM\KINGDOM HEARTS Melody of Memory_Data\StreamingAssets\Sead\music\") ELSE (ECHO Default directory not found! && GOTO DIR_%case%)
+  IF exist "%CD:~0,3%\%ProgramFiles%\Epic Games\KH_MoM\KINGDOM HEARTS Melody of Memory_Data\StreamingAssets\Sead\music\" (ECHO Restoring Originals.. && >NUL copy "Originals\*.*" "%CD:~0,3%\%ProgramFiles%\Epic Games\KH_MoM\KINGDOM HEARTS Melody of Memory_Data\StreamingAssets\Sead\music\") ELSE (ECHO Default directory not found! && GOTO DIR_%case%)
   GOTO END_CASE
 :CASE_2
-  IF exist "%CD:~0,3%\Program Files\KH_MoM\KINGDOM HEARTS Melody of Memory_Data\StreamingAssets\Sead\music\" (ECHO Installing Remastered tracks.. && >NUL copy "Remasters\I.5 and II.5\*.*" "%CD:~0,3%\Program Files\KH_MoM\\KINGDOM HEARTS Melody of Memory_Data\StreamingAssets\Sead\music\") ELSE (ECHO Default directory not found! && GOTO DIR_%case%)
+  IF exist "%CD:~0,3%\%ProgramFiles%\Epic Games\KH_MoM\KINGDOM HEARTS Melody of Memory_Data\StreamingAssets\Sead\music\" (ECHO Installing Remastered tracks.. && >NUL copy "Remasters\I.5 and II.5\*.*" "%CD:~0,3%\%ProgramFiles%\Epic Games\KH_MoM\\KINGDOM HEARTS Melody of Memory_Data\StreamingAssets\Sead\music\") ELSE (ECHO Default directory not found! && GOTO DIR_%case%)
   GOTO END_CASE
 :CASE_3
-  IF exist "%CD:~0,3%\Program Files\KH_MoM\KINGDOM HEARTS Melody of Memory_Data\StreamingAssets\Sead\music\" (ECHO Installing KH3 tracks.. && >NUL copy "Remasters\KH3\*.*" "%CD:~0,3%\Program Files\KH_MoM\KINGDOM HEARTS Melody of Memory_Data\StreamingAssets\Sead\music\") ELSE (ECHO Default directory not found! && GOTO DIR_%case%)
+  IF exist "%CD:~0,3%\%ProgramFiles%\Epic Games\KH_MoM\KINGDOM HEARTS Melody of Memory_Data\StreamingAssets\Sead\music\" (ECHO Installing KH3 tracks.. && >NUL copy "Remasters\KH3\*.*" "%CD:~0,3%\%ProgramFiles%\Epic Games\KH_MoM\KINGDOM HEARTS Melody of Memory_Data\StreamingAssets\Sead\music\") ELSE (ECHO Default directory not found! && GOTO DIR_%case%)
   GOTO END_CASE
 :DIR_1
   set /p id="Enter Game Directory: "
