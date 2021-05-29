@@ -23,7 +23,8 @@ YouTube/Twitch: Limen123
 
 INSTRUCTIONS
 
-1. Download the songpack from here:
+1. Download the songpack from one of the following mirrors:
+
 https://drive.google.com/drive/folders/1kcLv5vrCD3hzzfyDWscOysYiW9MUDFsb?usp=sharing
 
 	 - After extracting, you should end up with a Remasters folder. Within it should be a "KHI.5 and II.5"
