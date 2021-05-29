@@ -54,8 +54,10 @@ https://drive.google.com/drive/folders/1kcLv5vrCD3hzzfyDWscOysYiW9MUDFsb?usp=sha
 	- Again, if the game directory is not found, it will ask you to insert manually.
 
 PLEASE NOTE THAT SOME KH3 SONGS WILL OVERLAP WITH THE REMASTERS. You can use both at the
-same time if you'd like. Installing Remaster and then KH3 will replace the Remastered songs
-with KH3 where applicable, while leaving the rest of the Remastered songs still playable
+same time if you'd like, though any KH3 song that overlaps with the Remastered versions
+cannot be played at the same time. Installing Remaster and then KH3 will replace the
+Remastered songs with KH3 where applicable, while leaving the rest of the Remastered songs
+still playable.
 
 
 
