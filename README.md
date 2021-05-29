@@ -47,7 +47,7 @@ GOOGLE DRIVE: https://drive.google.com/file/d/1ErlmArFw5Dzw9RYweMkx8n4_WxVweuuX/
 
 
 3. Run the 1ST STEP batch file located in the pack to create backups of the original songs.
-	- By default, your game should be in "C:\Program Files\KH_MoM". If it is not, you
+	- By default, your game should be in "C:\Program Files\Epic Games\KH_MoM". If it is not, you
 	  will have to locate it yourself. Try searching "KH_MoM" if you're having trouble.
 	- After the backups are created, your folder should now look like this:
 	![image](https://user-images.githubusercontent.com/27838339/120083494-0caa1580-c097-11eb-9c3f-e861bddc88b6.png)
