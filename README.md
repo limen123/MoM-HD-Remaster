@@ -33,6 +33,8 @@ CHANGELOG:
 
 INSTRUCTIONS
 
+#SKIP TO BOTTOM OF INSTRUCTIONS IF YOU ARE UPDATING FROM V0.1
+
 1. Download the songpack on github or from one of the following mirrors:
 
 MEGA: https://mega.nz/file/qEIlEQ4K#WP56xKmx0EB1CXGmFkWiOwOKan-cPAYIe4QeHlNfTs0
@@ -88,6 +90,16 @@ OPTIONAL BATCH FILE
 %CD%:\Users\\%USERNAME%\Documents\KINGDOM HEARTS Melody of Memory\Epic Games Store\
 - %CD% being your main drive
 - %USERNAME% being your PC username
+
+
+#IF YOU ARE UPDATING FROM v0.1
+Download the Remasters zip from the mirrors or the release page. Download the NEW 2ND STEP batch.
+Replace the Remasters folder and the 2ND STEP batch in your designated mod folder and run
+2ND STEP as usual to install the new updates.
+
+There will be a new prompt when choosing Remasters to pick between KH1 or KH2 OWA
+
+
 
 ********************************************************************************************
 
