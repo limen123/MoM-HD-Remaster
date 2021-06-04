@@ -1,10 +1,10 @@
-# Kingdom Hearts Melody of Memory HD Remaster Modpack v0.2
+# Kingdom Hearts Melody of Memory HD Remaster Modpack v0.21
 
 ********************************************************************************************
 
 Melody of Memory
 
-HD Remaster Pack V0.2
+HD Remaster Pack V0.21
 
 CREATED BY LIMEN WITH THE HELP OF DAMO279 AND WATERKH
 
@@ -22,6 +22,11 @@ YouTube/Twitch: Limen123
 ********************************************************************************************
 
 CHANGELOG:
+ - V0.21
+    - Fixed Scherzo KH1 and KH2 being swapped
+IF YOU ALREADY HAVE V0.2 DOWNLOADED, JUST RENAME MUSIC0000015 TO MUSIC0000065 AND VICE VERSA TO FIX THIS ISSUE
+
+
  - V0.2
     - ADDED FADE TO THE END OF MOST TRACKS
     - ADJUSTED VOLUME FOR CERTAIN TRACKS
@@ -36,9 +41,9 @@ SKIP TO BOTTOM OF INSTRUCTIONS IF YOU ARE UPDATING FROM V0.1
 
 1. Download the songpack on github or from one of the following mirrors:
 
-MEGA: https://mega.nz/file/qEIlEQ4K#WP56xKmx0EB1CXGmFkWiOwOKan-cPAYIe4QeHlNfTs0
+MEGA: (WILL UPDATE WHEN READY)
 
-GOOGLE DRIVE: https://drive.google.com/file/d/1s4jTTS-67YtoaaN3AKU6JNiRiv-jMFdk/view?usp=sharing
+GOOGLE DRIVE: (WILL UPDATE WHEN READY)
 
 
 - After extracting, you should end up with a Remasters folder. Within it should be a "I.5 and II.5"
