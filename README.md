@@ -41,9 +41,9 @@ SKIP TO BOTTOM OF INSTRUCTIONS IF YOU ARE UPDATING FROM V0.1
 
 1. Download the songpack on github or from one of the following mirrors:
 
-MEGA: (WILL UPDATE WHEN READY)
+MEGA: https://mega.nz/file/XFgCybhK#IJsgVkEu9QkyXGGe5Bob2dXYM7vWL0qmmJmX6wV6yOA
 
-GOOGLE DRIVE: (WILL UPDATE WHEN READY)
+GOOGLE DRIVE: https://drive.google.com/file/d/1q00ipC8T3Omsbjjrc-Rz09V3AlYkiJAk/view?usp=sharing
 
 
 - After extracting, you should end up with a Remasters folder. Within it should be a "I.5 and II.5"
