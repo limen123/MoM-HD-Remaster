@@ -219,13 +219,11 @@ BIRTH BY SLEEP(1 song):
 
 
 
-KINGDOM HEARTS 3 PACK(10 Songs):
+KINGDOM HEARTS 3 PACK(8 Songs):
  - Go For It!
  - Radiant Garden
- - Savannah Pride
  - Makaukau?
  - Lord of the Castle
- - Tension Rising
  - The 13th Dilemma
  - Vim and Vigor
  - Rowdy Rumble
