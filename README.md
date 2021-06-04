@@ -104,6 +104,8 @@ There will be a new prompt when choosing Remasters to pick between KH1 or KH2 OW
 
 KNOWN ISSUES
 
+KH1 and KH2 versions of Scherzo Di Notte are swapped
+
 KH1:
  - Destiny's Force varies from OG, will need custom chart to fix
 KH2:
