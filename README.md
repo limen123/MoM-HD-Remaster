@@ -1,10 +1,10 @@
-# Kingdom Hearts Melody of Memory HD Remaster Modpack v0.1
+# Kingdom Hearts Melody of Memory HD Remaster Modpack v0.2
 
 ********************************************************************************************
 
 Melody of Memory
 
-HD Remaster Pack V0.1
+HD Remaster Pack V0.2
 
 CREATED BY LIMEN WITH THE HELP OF DAMO279 AND WATERKH
 
@@ -21,13 +21,23 @@ YouTube/Twitch: Limen123
 
 ********************************************************************************************
 
+CHANGELOG:
+ - V0.2
+    - ADDED FADE TO THE END OF MOST TRACKS
+    - ADJUSTED VOLUME FOR CERTAIN TRACKS
+    - REDUCED FILE SIZES FOR QUICKER DOWLOADS
+
+
+********************************************************************************************
+
+
 INSTRUCTIONS
 
-1. Download the songpack from one of the following mirrors:
+1. Download the songpack on github or from one of the following mirrors:
 
-MEGA: https://mega.nz/folder/GI53QIRI#b3lQEIgKHh5SpDY59x3Wkw
+MEGA: https://mega.nz/file/qEIlEQ4K#WP56xKmx0EB1CXGmFkWiOwOKan-cPAYIe4QeHlNfTs0
 
-GOOGLE DRIVE: https://drive.google.com/file/d/1ErlmArFw5Dzw9RYweMkx8n4_WxVweuuX/view?usp=sharing
+GOOGLE DRIVE: https://drive.google.com/file/d/1s4jTTS-67YtoaaN3AKU6JNiRiv-jMFdk/view?usp=sharing
 
 
 - After extracting, you should end up with a Remasters folder. Within it should be a "I.5 and II.5"
@@ -35,7 +45,7 @@ GOOGLE DRIVE: https://drive.google.com/file/d/1ErlmArFw5Dzw9RYweMkx8n4_WxVweuuX/
 	![image](https://user-images.githubusercontent.com/27838339/120084276-d079b380-c09c-11eb-9b90-674c2a8a414d.png)
 
 
-2. Download the 3 batch files. You should have:
+2. Download the 3 batch files on github. You should have:
 	- 1ST STEP - CREATE BACKUPS.bat
 	- 2ND STEP - INSTALLER.bat
 	- OPTIONAL - SAVE BACKUP.bat
@@ -58,7 +68,7 @@ GOOGLE DRIVE: https://drive.google.com/file/d/1ErlmArFw5Dzw9RYweMkx8n4_WxVweuuX/
    backups every time.
 	- "Originals" will undo all replacements and reset you with the original songs.
 	- "Remasters" will replace your songs with the Remastered versions from the
-	   HD Collections.
+	   HD Collections. You can choose between One-Winged Angel KH1 or KH2.
 	- "KH3" will replace your songs with the KH3 versions.
 	- Again, if the game directory is not found, it will ask you to insert manually.
 
@@ -84,27 +94,14 @@ OPTIONAL BATCH FILE
 KNOWN ISSUES
 
 KH1:
- - Traverse Town may lose sync during 2nd half, not sure
- - Shrouding Dark Cloud might be early on hits
- - This Is Halloween might be early on hits
- - Fragments of Sorrows may be off, not sure when/where
- - Destiny's Force may be off, not sure when/where
-
+ - Destiny's Force varies from OG, will need custom chart to fix
 KH2:
  * The Home of Dragons loses sync during the second half
- - Monochrome Dreams may lose sync during last bit, not sure
- - Old Friends, Old Rivals may lose sync during the last bit, not sure
- - Sacred Moon may be off, not sure when/where
- - Rowdy Rumble might be late on hits
- - Rage Awakened may be off, not sure when/where
+ - Old Friends, Old Rivals varies from OG, will need custom chart to fix
  
-Days:
- - Another Side Battle Ver may be off, not sure when/where
-
 KH3:
  - Savannah Pride's ending does not follow the original chart
  - L'Impeto Oscuro's segment after the first glide differs from the original chart
-
 
 
 If you're able to confirm or deny any of these issues, do shoot me a message and I'll take
@@ -119,7 +116,7 @@ contacts at the top of the READ ME!
 SONGLIST
 
 
-REMASTERED PACK(71 total songs):
+REMASTERED PACK(74 total songs):
 
 KH1(31 songs):
  - Dive into the Heart -Destati- (Tutorial)
@@ -155,7 +152,11 @@ KH1(31 songs):
  - Guardando nel buio
 
 
-KH2(38 songs):
+CHAIN OF MEMORIES(1 song):
+ - Lord of the Castle
+
+
+KH2(39 songs):
  - Lazy Afternoons
  - Sinister Sundown
  - The Afternoon Streets
@@ -180,6 +181,7 @@ KH2(38 songs):
  - Deep Drive
  - Reviving Hollow Bastion
  - Scherzo Di Notte (KH2)
+ - One Winged Angel
  - The 13th Struggle
  - Tension Rising
  - The 13th Dilemma
@@ -195,10 +197,14 @@ KH2(38 songs):
  - The Other Promise
  - Kairi III (The Final World's 2nd Dive)
 
+
 DAYS(2 songs):
  - Musique pour la tristesse de Xion
  - Another Side - Battle Ver.-
 
+
+BIRTH BY SLEEP(1 song):
+ - Dismiss
 
 
 
