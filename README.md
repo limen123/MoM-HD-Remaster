@@ -122,7 +122,7 @@ I will try to combine PC and Switch releases in future updates
 
 ********************************************************************************************
 
-KNOWN ISSUES
+GENERAL KNOWN ISSUES
 
 KH1 and KH2 versions of Scherzo Di Notte are swapped
 
@@ -135,6 +135,11 @@ KH2:
 KH3:
  - Savannah Pride's ending does not follow the original chart
  - L'Impeto Oscuro's segment after the first glide differs from the original chart
+
+
+SWITCH KNOWN ISSUES
+
+ - Pausing frequently will cause sound to completely cut off. If you run into this problem, hit restart or track selection or the game will eventually freeze up and you will have to restart.
 
 
 If you're able to confirm or deny any of these issues, do shoot me a message and I'll take
