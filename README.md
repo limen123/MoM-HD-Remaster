@@ -1,10 +1,10 @@
-# Kingdom Hearts Melody of Memory HD Remaster Modpack v0.21
+# Kingdom Hearts Melody of Memory HD Remaster Modpack v0.21S
 
 ********************************************************************************************
 
 Melody of Memory
 
-HD Remaster Pack V0.21
+HD Remaster Pack V0.21S
 
 CREATED BY LIMEN WITH THE HELP OF DAMO279 AND WATERKH
 
@@ -22,6 +22,9 @@ YouTube/Twitch: Limen123
 ********************************************************************************************
 
 CHANGELOG:
+ - V0.21S
+    - ADDED NINTENDO SWITCH COMPATIBILITY
+
  - V0.21
     - Fixed Scherzo KH1 and KH2 being swapped
 
@@ -37,7 +40,7 @@ IF YOU ALREADY HAVE V0.2 DOWNLOADED, JUST RENAME MUSIC0000015 TO MUSIC0000065 AN
 ********************************************************************************************
 
 
-INSTRUCTIONS
+PC INSTRUCTIONS
 SKIP TO BOTTOM OF INSTRUCTIONS IF YOU ARE UPDATING FROM V0.1
 
 1. Download the songpack on github or from one of the following mirrors:
@@ -104,6 +107,17 @@ Replace the Remasters folder and the 2ND STEP batch in your designated mod folde
 
 There will be a new prompt when choosing Remasters to pick between KH1 or KH2 OWA
 
+
+
+
+SWITCH INSTRUCTIONS
+Contents are the same, just working for Switch now!!
+*there may also be a little surprise for anyone starting a new game as well hint hint*
+Make sure you're running any sort of firmware that allows game mods. I tested this with Atmosphere
+
+Simply download the main file here, and any addons you want(OWA KH1 or KH2, KH3 pack), extract the folders and merge the optional ones with the main folder, and then drag and drop it into your Atmosphere\contents\ (or equivalent if different CFW) folder on your SD card.
+
+I will try to combine PC and Switch releases in future updates
 
 
 ********************************************************************************************
