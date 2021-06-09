@@ -41,6 +41,7 @@ IF YOU ALREADY HAVE V0.2 DOWNLOADED, JUST RENAME MUSIC0000015 TO MUSIC0000065 AN
 
 
 PC INSTRUCTIONS
+
 SKIP TO BOTTOM OF INSTRUCTIONS IF YOU ARE UPDATING FROM V0.1
 
 1. Download the songpack on github or from one of the following mirrors:
@@ -110,7 +111,13 @@ There will be a new prompt when choosing Remasters to pick between KH1 or KH2 OW
 
 
 
+
+
+********************************************************************************************
+
+
 SWITCH INSTRUCTIONS
+
 Contents are the same, just working for Switch now!!
 *there may also be a little surprise for anyone starting a new game as well hint hint*
 Make sure you're running any sort of firmware that allows game mods. I tested this with Atmosphere
